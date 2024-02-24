@@ -1,8 +1,10 @@
 {
   "name": "node-jvm",
   "version": "0.2.3",
-  "description": "jvm",
+  "description": "",
   "main": "index.js",
+  "author": "Yaroslav Gaponov",
+  "license": "MIT",
   "directories": {
     "example": "examples"
   },
@@ -14,8 +16,6 @@
     "url": "git+https://github.com/ScottZSH/sg-node-jvm"
   },
   "keywords": [
-    "jvm",
-    "java",
     "virtual",
     "machine"
   ],
@@ -29,15 +29,5 @@
     "sinon": "~1.7.3",
     "sinon-chai": "~2.4.0",
     "grunt-node-webkit-builder": "~0.1.11"
-},
-  "engines": {
-    "node": ">=8.11.0"
-  },  
-  "author": "Yaroslav Gaponov",
-  "license": "MIT",
-  "readmeFilename": "readme.md",
-  "gitHead": "83c5cb707556be23a180c7bd62c6f20ad65b979a",
-  "bugs": {
-    "url": "https://github.com/YaroslavGaponov/node-jvm/issues"
   }
 }
