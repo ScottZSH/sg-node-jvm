@@ -1,9 +1,9 @@
 {
-  "name": "node-jvm",
+  "name": "sg-node-jvm",
   "version": "0.2.3",
   "description": "",
   "main": "index.js",
-  "author": "Yaroslav Gaponov",
+  "author": "Scott",
   "license": "MIT",
   "directories": {
     "example": "examples"
