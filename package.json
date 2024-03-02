@@ -1,19 +1,19 @@
 {
   "name": "sg-node-jvm",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "description": "",
   "main": "index.js",
   "author": "Scott",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ScottZSH/sg-node-jvm.git"
+  },
   "directories": {
     "example": "examples"
   },
   "scripts": {
     "test": "grunt test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ScottZSH/sg-node-jvm.git"
   },
   "keywords": [
     "virtual",
